@@ -134,5 +134,5 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 ---
 <h4 align='center'>© 2022 Aνιѕнкαя Pαтιℓ</h4>
 
-<!-- DO NOT REMOVE THIS CREDIT 🤬 🤬 -->
+
 
